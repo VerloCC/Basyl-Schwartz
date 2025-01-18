@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Obnimaylo",
+		"unitType": "Sword",
+		"uniqueTo": "Baselkoi Knyazdom",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 90,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"uniques": ["[+55]% Strength bonus for [Military] units within [2] tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]

@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Academy Of Talents",
+		"replaces": "University",
+		"uniqueTo": "Baselkoi Knyazdom",
+		"cost": 90,
+		"maintenance": 5,
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Library",
+		"uniques": ["[+55]% Great Person generation [in this city]"],
+		"requiredTech": "Education"
+	}
+]

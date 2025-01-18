@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Baselkoi Knyazdom",
+		"leaderName": "Basil",
+		"adjective": ["Baselkovichy"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Hi Basil,you are sweet knyaz.",
+		"startIntroPart2": "Be sweetheart and win, blah blah blah, here we go!",
+		
+		"declaringWar": "Sorry but y'all need to be hugged.",
+		"attacked": "Poopshitter.",
+		"defeated": "Bye bye ~makes mewing and fades away~",
+		"introduction": "Hi.",
+		
+		"neutralHello": "Hi~",
+		"neutralLetsHearIt": ["Lemme hear ya out."],
+		"neutralNo": ["No"],
+		"neutralYes": ["Yes"],
+
+		"hateHello": "Hi",
+		"hateLetsHearIt": ["You are poopshitter,we don't befriend with ones."],
+		"hateNo": ["No"],
+		"hateYes": ["Yes"],
+		
+		"afterPeace": "Pwease, let just hug eachother and get away.",
+		"tradeRequest": "Hi, buy this or I'll hug you to death.",
+		
+		"favoredReligion": "Judaism",
+		"outerColor": [25, 73, 214],
+		"innerColor": [88, 132, 254],
+		"uniqueName": "Basil's Code of Cuties",
+		"uniques": ["[+1 Happiness] from all [Happiness] buildings", "[+1 Happiness] from every specialist [in all cities]"],
+		"cities": ["Knyazhy Dim","Bolotne","Lyublyache","Myrne","Zahodnica","Hrestne","Pozorne",
+			"Wasylyograd","Hey Wasyl~","Easter Egg","You actually got this many cities???"],
+		"spyNames": ["Basil", "Valentina", "Gafazt", "Buglord", "Gumbo mumbo", "Hey Wasyl~~"]
+	}
+]
